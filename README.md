@@ -86,13 +86,13 @@
 #
 > 員工管理，在員工管理頁面中可以對索引、員工帳號、員工姓名、手機號碼、頭像、性別、郵箱、審核回復、審查狀態、審核等內容進行詳情、修改或刪除等操作，如圖5-5所示。
 >
-> ![image](https://img-blog.csdnimg.cn/e81edb8d415c47feb1016ba7f61ba175.png)
+> ![image](https://img-blog.csdnimg.cn/df9d00eea906402ca73d097f18cd7ddc.png)
 > 
 > 圖5-5員工管理界面圖
 #
 > 維修員管理，在維修員管理頁面中可以對索引、維修員帳號、維修員姓名、聯繫號碼、頭像、性別、郵箱、審核回復、審查狀態、審核等內容進行詳情、修改或刪除等操作，如圖5-6所示。
 >
-> ![image](https://img-blog.csdnimg.cn/df9d00eea906402ca73d097f18cd7ddc.png)
+> ![image](https://img-blog.csdnimg.cn/8b6a95f70d654cfba06bf7de896d39f0.png)
 > 
 > 圖5-6維修員管理界面圖
 # 
