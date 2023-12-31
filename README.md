@@ -39,7 +39,7 @@
 > ![image](https://img-blog.csdnimg.cn/8e0eb55e295d4caead126457d21c2030.png)
 >
 >圖3-2系統業務用例圖
-# 5系統設計
+# 5.系統設計
 1) 數據庫設計
 >信息管理系統的效率和實現的效果完全取決於數據庫結構設計的好壞。為了保證數據完整性，提高數據庫存儲的效率，那麼統一合理地設計數據庫結構是必要的。數據庫設計一般包括如下幾個步驟:
 - 1.根據用戶需求，確定數據庫信息進行保存
@@ -55,29 +55,29 @@
 #
 > 宿舍衛生管理實體圖如圖4-2所示:
 >
-> ![image](https://github.com/XUYR00/FINAL/blob/main/image/4-2.drawio.png)
+> ![image](https://img-blog.csdnimg.cn/a03da6d8aa49473b82fc0ab318c19037.png)
 >
 >圖4-2宿舍衛生管理實體圖
 
-### 5.1 登錄註冊模塊
+# 6.登錄註冊模塊
 > 員工宿舍管理系統，管理員、員工和維修員通過填寫用戶名、密碼等信息選擇角色進行登錄就可以使用了，如圖5-1所示。
 > 
-> ![image](https://github.com/XUYR00/FINAL/blob/main/image/5-1.png)
+> ![image](https://img-blog.csdnimg.cn/af4d447be1db43e38c3d1c8a02919264.png)
 > 
 > 圖5-1系統登錄界面圖
 #
 > 員工註冊，在員工註冊頁面通過填寫員工帳號、員工姓名、密碼、確認密碼、手機號碼、郵箱等信息完成員工註冊、如圖5-2所示。
 > 
-> ![image](https://github.com/XUYR00/FINAL/blob/main/image/5-2.png)
+> ![image](https://img-blog.csdnimg.cn/38d78036b13d4fb3a33e9ab0945f9767.png)
 >  
 > 圖5-2員工註冊界面圖
 #
 > 維修員註冊，通過填寫維修員帳號、維修員帳號、密碼、卻仁密碼、聯繫方式、郵箱等內容進行註冊等操作，如圖5-3所示。
 >
-> ![image](https://github.com/XUYR00/FINAL/blob/main/image/5-3.png)
+> ![image](https://img-blog.csdnimg.cn/173333822da743bc8319841ef78ef024.png)
 > 
 > 圖5-3維修員註冊界面圖
-### 5.2管理員功能模塊
+# 7.管理員功能模塊
 > 管理員登錄系統後，可以對首頁、個人中心、員工管理、維修員管理、宿舍信息管理、床位信息管理、宿舍衛生管理、員工入住管理、報修信息管理、分配任務管理、維修反饋管理、繳費中心管理、繳費紀錄管理等內容進行詳細操作，如圖5-4所示。
 >
 > ![image](https://github.com/XUYR00/FINAL/blob/main/image/5-4.png)
@@ -86,49 +86,49 @@
 #
 > 員工管理，在員工管理頁面中可以對索引、員工帳號、員工姓名、手機號碼、頭像、性別、郵箱、審核回復、審查狀態、審核等內容進行詳情、修改或刪除等操作，如圖5-5所示。
 >
-> ![image](https://github.com/XUYR00/FINAL/blob/main/image/5-5.png)
+> ![image](https://img-blog.csdnimg.cn/e81edb8d415c47feb1016ba7f61ba175.png)
 > 
 > 圖5-5員工管理界面圖
 #
 > 維修員管理，在維修員管理頁面中可以對索引、維修員帳號、維修員姓名、聯繫號碼、頭像、性別、郵箱、審核回復、審查狀態、審核等內容進行詳情、修改或刪除等操作，如圖5-6所示。
 >
-> ![image](https://github.com/XUYR00/FINAL/blob/main/image/5-6.png)
+> ![image](https://img-blog.csdnimg.cn/df9d00eea906402ca73d097f18cd7ddc.png)
 > 
 > 圖5-6維修員管理界面圖
 # 
 > 宿舍信息管理，在宿舍信息管理頁面可以對索引、宿舍名稱、位置、床位數、狀態等內容進行發布、宿舍衛生修改或刪除等操作，如圖5-7所示。
 >
-> ![image](https://github.com/XUYR00/FINAL/blob/main/image/5-7.png)
+> ![image](https://img-blog.csdnimg.cn/8b6a95f70d654cfba06bf7de896d39f0.png)
 > 
 > 圖5-7宿舍信息管理界面圖
 #
 > 床位信息管理，在床位信息管理頁面可以對索引、宿舍名稱、位置、床位數等內容進行詳情、員工入住、修改或刪除等操作，如圖5-8所示。
 >
-> ![image](https://github.com/XUYR00/FINAL/blob/main/image/5-8.png)
+> ![image](https://img-blog.csdnimg.cn/b086d312916e41a88e07cc21bad1c7a5.png)
 > 
 > 圖5-8床位信息管理界面圖
 #
 > 宿舍衛生管理，在宿舍衛生管理頁面可以對索引、宿舍名稱、位置、是否消毒、消毒時間、時間等內容進行詳情、修改或刪除等操作，如圖5-9所示。
 >
-> ![image](https://github.com/XUYR00/FINAL/blob/main/image/5-9.png)
+> ![image](https://img-blog.csdnimg.cn/456ea7cd2e5f4c3493b9e4213d1b2f9f.png)
 > 
 > 圖5-9宿舍衛生管理界面圖
 #
 > 員工入住管理，在員工入住管理頁面可以對索引、宿舍名稱、位置、床位數、員工帳號、員工姓名等內容進行詳情、修改或刪除等操作，如圖5-10所示。
 > 
-> ![image](https://github.com/XUYR00/FINAL/blob/main/image/5-10.png)
+> ![image](https://img-blog.csdnimg.cn/06f71d78b62746ff9ff36e162bf7e123.png)
 > 
 > 圖5-10員工入住管理界面圖
 #
 > 報修信息管理，在報修信息管理頁面可以對索引、宿舍名稱、位置、報修名稱、員工帳號、員工姓名，上報日期、審核回復、審核狀態，審核等內容進行詳情、分配任務、修改或刪除等操作，如圖5-11所示。
 >
-> ![image](https://github.com/XUYR00/FINAL/blob/main/image/5-11.png)
+> ![image](https://img-blog.csdnimg.cn/de891f347b59419fba8f0f377a7bb7b6.png)
 > 
 > 圖5-11報修信息管理界面圖
 #
 > 分配任務管理，在分配任務管理頁面可以對索引、宿舍名稱、位置、報修名稱、員工帳號、員工姓名，上報日期、維修員帳號、維修員姓名、分配時間等內容進行詳情、修改或刪除等操作，如圖5-12所示。
 >
-> ![image](https://github.com/XUYR00/FINAL/blob/main/image/5-12.png)
+> ![image](https://img-blog.csdnimg.cn/0061530335314f63974dc57c6d8539ea.png)
 > 
 > 圖5-12分配任務管理界面圖
 > # 6.源代碼：
