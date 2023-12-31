@@ -98,7 +98,7 @@
 # 
 > 宿舍信息管理，在宿舍信息管理頁面可以對索引、宿舍名稱、位置、床位數、狀態等內容進行發布、宿舍衛生修改或刪除等操作，如圖5-7所示。
 >
-> ![image](https://img-blog.csdnimg.cn/8b6a95f70d654cfba06bf7de896d39f0.png)
+> ![image](https://img-blog.csdnimg.cn/b086d312916e41a88e07cc21bad1c7a5.png)
 > 
 > 圖5-7宿舍信息管理界面圖
 #
